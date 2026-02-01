@@ -1,0 +1,1 @@
+# python-to-calculate-the-sum-of-integers-of-the-list.
